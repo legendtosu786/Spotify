@@ -33,7 +33,7 @@ class Helper(object):
 │❍ ᴘᴀɪᴅ ᴘʀᴏᴍᴏ + ʙᴏᴛ ʜᴏsᴛɪɴɢ⎚
 ╰───────────────────⦿
 ❍ ᴛɪᴍᴇ ᴡᴀsᴇᴛʀ = ʙʟᴏᴄᴋ 
-❍ ᴄᴏɴᴛᴀᴄᴛ - [ᴄʟɪᴄᴋ ғᴏʀ ᴅᴍ](https://t.me/LEGEND_MICKEY)'''
+❍ ᴄᴏɴᴛᴀᴄᴛ - [ᴄʟɪᴄᴋ ғᴏʀ ᴅᴍ](https://t.me/ll_Abusing_God_ll)'''
     
     HELP_admin = """<b><u>Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Adᴍɪɴ:</u></b>
 
