@@ -38,15 +38,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ________________________________________________________________________________#
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/legendtosif/Spotify",
+    "https://github.com/legendtosu786/Spotify",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 # ________________________________________________________________________________#
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_incricible")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/The_incricible")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Shizu_Updates")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/II_Asthetic_World_II")
 # ________________________________________________________________________________#
 # Set this to True if you want the assistant to automatically leave chats
 # after an interval
@@ -100,12 +100,12 @@ confirmer = {}
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://files.catbox.moe/u50uo4.jpg",
+    "https://files.catbox.moe/rbphyn.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://files.catbox.moe/u50uo4.jpg",
+    "https://files.catbox.moe/rbphyn.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
